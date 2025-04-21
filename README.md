@@ -1,3 +1,4 @@
-# Craaazy Cattle 3D Game!!
+# Welcome to Crazy Cattle 3D
 
-<p> Contains a lot of fun playing with your sheeps. this is forked version of project but we kinda edited it alr?</p>
+<p> A battle royale rage game about sheep; will you have what it takes to survive? </p>
+
