@@ -158,6 +158,16 @@ html, body, #canvas {
 			<div id="status-notice"></div>
 		</div>
 
+		<div id="popup" class="popup-container">
+			<div class="popup-header">
+				<div class="popup-title">Download me!</div>
+				<button class="popup-close" onclick="closePopup()">×</button>
+			</div>
+			<div class="popup-content">
+				<img src="coin.png" alt="Download Me!" class="popup-image" onclick="window.open('https://crazycattlegame.github.io/dl)">
+			</div>
+		</div>
+
 		<script>
 if (!window.SharedArrayBuffer) {
 	document.getElementById('status').style.display = 'none';
